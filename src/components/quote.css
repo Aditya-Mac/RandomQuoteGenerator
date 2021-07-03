@@ -1,0 +1,31 @@
+#quote-box {
+  height: 300px;
+  border: solid;
+  margin: 10% 20% 20%;
+  border-radius: 10px;
+}
+
+#new-quote {
+  border-radius: 20px;
+  outline: none;
+  border-style: none;
+  position: fixed;
+  bottom: 200px;
+  right: 400px;
+}
+
+a {
+  position: fixed;
+  bottom: 200px;
+  left: 400px;
+}
+
+#author {
+  position: fixed;
+  right: 350px;
+  top: 350px;
+}
+
+#text {
+  padding: 5% 5% 0 5%;
+}
